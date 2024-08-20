@@ -12,7 +12,7 @@ This is a full-fledged blogging application that allows users to sign up, log in
 
 ## Technology Used
 - Backend: Cloudflare Workers, Hono, Prisma, PostgreSQL
-- Frontend: Next.js, Tailwind CSS
+- Frontend: React.js, Tailwind CSS
 - Validation: Zod (shared between frontend and backend)
 - Database: Neon PostgreSQL
 - Deployment: Vercel, Cloudflare Workers
